@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>technology on Tống Phước Gia Huy</title>
+    <link>https://github.com/huyhue/blognew/tags/technology/</link>
+    <description>Recent content in technology on Tống Phước Gia Huy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
+    <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://github.com/huyhue/blognew/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>New content 1</title>
+        <link>https://github.com/huyhue/blognew/posts/news1/</link>
+        <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        <atom:modified>Sat, 19 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://github.com/huyhue/blognew/posts/news1/</guid>
+        <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+        
+        <dc:creator>Huyhue</dc:creator>
+        <media:content url="https://github.com/huyhue/blognew/images/header/background.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>life</category>
+            
+          
+            
+              <category>technology</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>news</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
