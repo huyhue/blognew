@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Tống Phước Gia Huy</title>
-    <link>https://github.com/huyhue/blognew/presentation/</link>
+    <link>https://huyhue.github.io/blognew/presentation/</link>
     <description>Recent content in Presentations on Tống Phước Gia Huy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/huyhue/blognew/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://huyhue.github.io/blognew/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Fourth</title>
-        <link>https://github.com/huyhue/blognew/presentation/dir/fourth/</link>
+        <link>https://huyhue.github.io/blognew/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://github.com/huyhue/blognew/presentation/dir/fourth/</guid>
+        <guid>https://huyhue.github.io/blognew/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>Tống Phước Gia Huy</dc:creator>
-        <media:content url="https://github.com/huyhue/blognew/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://huyhue.github.io/blognew/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -54,15 +54,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://github.com/huyhue/blognew/presentation/third/</link>
+        <link>https://huyhue.github.io/blognew/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://github.com/huyhue/blognew/presentation/third/</guid>
+        <guid>https://huyhue.github.io/blognew/presentation/third/</guid>
         <description></description>
         
         <dc:creator>Tống Phước Gia Huy</dc:creator>
-        <media:content url="https://github.com/huyhue/blognew/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://huyhue.github.io/blognew/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -84,15 +84,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://github.com/huyhue/blognew/presentation/second/</link>
+        <link>https://huyhue.github.io/blognew/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://github.com/huyhue/blognew/presentation/second/</guid>
+        <guid>https://huyhue.github.io/blognew/presentation/second/</guid>
         <description></description>
         
         <dc:creator>Tống Phước Gia Huy</dc:creator>
-        <media:content url="https://github.com/huyhue/blognew/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://huyhue.github.io/blognew/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -114,15 +114,15 @@
       
       <item>
         <title>First</title>
-        <link>https://github.com/huyhue/blognew/presentation/first/</link>
+        <link>https://huyhue.github.io/blognew/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://github.com/huyhue/blognew/presentation/first/</guid>
+        <guid>https://huyhue.github.io/blognew/presentation/first/</guid>
         <description></description>
         
         <dc:creator>Tống Phước Gia Huy</dc:creator>
-        <media:content url="https://github.com/huyhue/blognew/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://huyhue.github.io/blognew/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

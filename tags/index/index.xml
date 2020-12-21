@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Tống Phước Gia Huy</title>
-    <link>https://github.com/huyhue/blognew/tags/index/</link>
+    <link>https://huyhue.github.io/blognew/tags/index/</link>
     <description>Recent content in index on Tống Phước Gia Huy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://github.com/huyhue/blognew/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://huyhue.github.io/blognew/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,11 +23,11 @@
       
       <item>
         <title>Posts</title>
-        <link>https://github.com/huyhue/blognew/posts/</link>
+        <link>https://huyhue.github.io/blognew/posts/</link>
         <pubDate>Sat, 19 Dec 2020 12:00:06 +0900</pubDate>
         <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
         
-        <guid>https://github.com/huyhue/blognew/posts/</guid>
+        <guid>https://huyhue.github.io/blognew/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
