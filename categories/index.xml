@@ -14,13 +14,31 @@
     <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
     <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://huyhue.github.io/blognew/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>technology</title>
+        <link>https://huyhue.github.io/blognew/categories/technology/</link>
+        <pubDate>Wed, 23 Dec 2020 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        
+        <guid>https://huyhue.github.io/blognew/categories/technology/</guid>
+        <description></description>
+        
+        <dc:creator>Tống Phước Gia Huy</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>syntax</title>
