@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>tutorials on Tống Phước Gia Huy</title>
+    <link>https://huyhue.github.io/blognew/series/tutorials/</link>
+    <description>Recent content in tutorials on Tống Phước Gia Huy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
+    <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 27 Dec 2020 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://huyhue.github.io/blognew/series/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Kiến thức về github trong công việc</title>
+        <link>https://huyhue.github.io/blognew/posts/github/</link>
+        <pubDate>Sun, 27 Dec 2020 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        <atom:modified>Sun, 27 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://huyhue.github.io/blognew/posts/github/</guid>
+        <description>Lệnh cơ bản về github học được Lấy code về máy, khi bắt đầu thực hiện dự án pull về máy
+ git pull origin branchXem branch  git branchCreate new branch
+ git branch name Chuyen branch
+ git checkout nameQuay tro ve ban dau khi moi pull ve
+ git checkout fileXem sự thay đổi  git diff file git push origin branchpull request - merge Một nhánh : làm một chức năng riêng.</description>
+        
+        <dc:creator>Tống Phước Gia Huy</dc:creator>
+        <media:content url="https://huyhue.github.io/blognew/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKb7Mf8C4NWNOkfOsjo_r5yO_6wbGbpX2BJw&amp;usqp=CAU" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+        
+        
+          
+            
+              <category>tutorials</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
