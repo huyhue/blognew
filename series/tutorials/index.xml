@@ -14,13 +14,47 @@
     <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
     <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 04 Jan 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://huyhue.github.io/blognew/series/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Học ngôn ngữ C# Core</title>
+        <link>https://huyhue.github.io/blognew/posts/learncshape/</link>
+        <pubDate>Sat, 16 Jan 2021 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        <atom:modified>Sat, 16 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://huyhue.github.io/blognew/posts/learncshape/</guid>
+        <description></description>
+        
+        <dc:creator>Huyhue</dc:creator>
+        <media:content url="https://huyhue.github.io/blognew/https://volosoft.com/api/blogging/files/www/4986ee0b20bd65298d2539f3f4efe05f.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+        
+        
+          
+            
+              <category>tutorials</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Create a news Blog</title>
