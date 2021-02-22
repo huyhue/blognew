@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>life on Tống Phước Gia Huy</title>
+    <link>https://huyhue.github.io/blognew/categories/life/</link>
+    <description>Recent content in life on Tống Phước Gia Huy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
+    <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 22 Feb 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://huyhue.github.io/blognew/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Học online thời covid</title>
+        <link>https://huyhue.github.io/blognew/posts/learnonline/</link>
+        <pubDate>Mon, 22 Feb 2021 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        <atom:modified>Mon, 22 Feb 2021 12:00:06 +0900</atom:modified>
+        <guid>https://huyhue.github.io/blognew/posts/learnonline/</guid>
+        <description></description>
+        
+        <dc:creator>Huyhue</dc:creator>
+        <media:content url="https://huyhue.github.io/blognew/https://www.business.com/images/rz/5d1652999c658af4698b456b/googlemeet.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>life</category>
+            
+          
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

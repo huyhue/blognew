@@ -14,13 +14,47 @@
     <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
     <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 16 Jan 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://huyhue.github.io/blognew/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Học online thời covid</title>
+        <link>https://huyhue.github.io/blognew/posts/learnonline/</link>
+        <pubDate>Mon, 22 Feb 2021 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        <atom:modified>Mon, 22 Feb 2021 12:00:06 +0900</atom:modified>
+        <guid>https://huyhue.github.io/blognew/posts/learnonline/</guid>
+        <description></description>
+        
+        <dc:creator>Huyhue</dc:creator>
+        <media:content url="https://huyhue.github.io/blognew/https://www.business.com/images/rz/5d1652999c658af4698b456b/googlemeet.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>life</category>
+            
+          
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Học ngôn ngữ C# Core</title>
