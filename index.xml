@@ -14,7 +14,7 @@
     <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
     <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 22 Feb 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://huyhue.github.io/blognew/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,40 @@
         
       
 
+      
+      <item>
+        <title>Travel in Viet Nam</title>
+        <link>https://huyhue.github.io/blognew/posts/travel/</link>
+        <pubDate>Mon, 01 Mar 2021 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        <atom:modified>Mon, 01 Mar 2021 12:00:06 +0900</atom:modified>
+        <guid>https://huyhue.github.io/blognew/posts/travel/</guid>
+        <description></description>
+        
+        <dc:creator>Huyhue</dc:creator>
+        <media:content url="https://huyhue.github.io/blognew/https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f709d82fa4f131fa2114a74%2F0x0.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>travel</category>
+            
+          
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Học online thời covid</title>
@@ -382,7 +416,13 @@ Tham khảo thêm
 https://www.javaguides.net/2020/05/spring-boot-thymeleaf-crud-database-real-time-project-part6.html
 Link github đã code
 https://github.com/huyhue/Spring-Framework
+https://github.com/zikord/QuizSpringProject
 This is the Markdown Guide.
+Cource Spring Boot
+https://hoclaptrinhonline.asia/course/view.php?id=13#section-5
+Blog
+Code1
+Code2
 YouTube Tutorials   </description>
         
         <dc:creator>Huyhue</dc:creator>
