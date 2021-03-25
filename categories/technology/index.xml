@@ -14,13 +14,47 @@
     <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
     <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 21 Mar 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://huyhue.github.io/blognew/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Kinh nghiệm phỏng vấn</title>
+        <link>https://huyhue.github.io/blognew/posts/interview/</link>
+        <pubDate>Thu, 25 Mar 2021 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        <atom:modified>Thu, 25 Mar 2021 12:00:06 +0900</atom:modified>
+        <guid>https://huyhue.github.io/blognew/posts/interview/</guid>
+        <description></description>
+        
+        <dc:creator>Huyhue</dc:creator>
+        <media:content url="https://huyhue.github.io/blognew/https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2020/01/20095625/blog_header_job_interview.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+              <category>technology</category>
+            
+          
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Requirement Sortware</title>
