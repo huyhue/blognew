@@ -288,11 +288,13 @@
         <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
         <atom:modified>Sun, 27 Dec 2020 12:00:06 +0900</atom:modified>
         <guid>https://huyhue.github.io/blognew/posts/github/</guid>
-        <description>Lệnh cơ bản về github học được Lấy code về máy, khi bắt đầu thực hiện dự án pull về máy
- git pull origin branchXem branch  git branchCreate new branch
- git branch name Chuyen branch
- git checkout nameQuay tro ve ban dau khi moi pull ve
- git checkout fileXem sự thay đổi  git diff file git push origin branchpull request - merge Một nhánh : làm một chức năng riêng.</description>
+        <description>Lệnh cơ bản về github học được Cập nhật mới từ remote về máy (lấy nhánh)
+ git fetch (origin)Cập nhật các commit mới từ remote
+ git pull origin branchĐẩy code lên remote
+ git push origin(remote) --all(branch)Xem các remote
+ git remotegit remote -vXem branch  git branch-a (nhánh ở local)Create new branch
+ git branch name Chuyển branch
+ git checkout namegit switch nameXóa branch</description>
         
         <dc:creator>Tống Phước Gia Huy</dc:creator>
         <media:content url="https://huyhue.github.io/blognew/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKb7Mf8C4NWNOkfOsjo_r5yO_6wbGbpX2BJw&amp;usqp=CAU" medium="image"><media:title type="html">featured image</media:title></media:content>

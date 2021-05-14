@@ -1807,7 +1807,7 @@
 <div class="single__infos">
   <time class="single__info" title="Written At">📅&nbsp;Dec 27, 2020 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;1&nbsp;min read </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="Reading Time"> ☕&nbsp;2&nbsp;min read </span>
   
   <span class="single__info">
     
@@ -1826,36 +1826,78 @@
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
       <h2 id="lệnh-cơ-bản-về-github-học-được">Lệnh cơ bản về github học được</h2>
-<p>Lấy code về máy, khi bắt đầu thực hiện dự án pull về máy</p>
+<p>Cập nhật mới từ remote về máy (lấy nhánh)</p>
+<pre><code>  git fetch (origin)
+</code></pre><p>Cập nhật các commit mới từ remote</p>
 <pre><code>  git pull origin branch
+</code></pre><p>Đẩy code lên remote</p>
+<pre><code>  git push origin(remote) --all(branch)
+</code></pre><p>Xem các remote</p>
+<pre><code>  git remote
+  git remote -v
 </code></pre><h3 id="xem-branch">Xem branch</h3>
 <pre><code>  git branch
+            -a (nhánh ở local)
 </code></pre><p>Create new branch</p>
 <pre><code>  git branch name 
-</code></pre><p>Chuyen branch</p>
+</code></pre><p>Chuyển branch</p>
 <pre><code>  git checkout name
+  git switch name
+</code></pre><p>Xóa branch</p>
+<pre><code>  git branch -d name
+  git push --delete origin beta : xóa trên remote
+</code></pre><p>Chuyển về các trạng thái commit</p>
+<pre><code>  git checkout (mã commit)
 </code></pre><p>Quay tro ve ban dau khi moi pull ve</p>
 <pre><code>  git checkout file
 </code></pre><h3 id="xem-sự-thay-đổi">Xem sự thay đổi</h3>
 <pre><code>  git diff file
 </code></pre><pre><code>  git push origin branch
-</code></pre><h3 id="pull-request---merge">pull request - merge</h3>
+</code></pre><h3 id="pull-request----merge">pull request  - merge</h3>
 <p>Một nhánh : làm một chức năng riêng. Xong nhánh thì trộn (merge) vô nhánh chính (master)</p>
 <ul>
 <li>Xung đột mã nguồn<br />
 Trộn mã master vào nhánh hiện tại</li>
 </ul>
 <pre><code>  git merge master
+</code></pre><p>Nếu không cài công cụ merge thì dùng</p>
+<pre><code>  git mergetool
+  -&gt; : diffg LO : lấy cái của master
+       diffg RE : lấy cái của khác
+       diffg BA : lấy 2 cái trộn chung luôn -&gt; :wq
+</code></pre><p>Đang ở nhánh master, gộp beta vào master (beta là nhánh cơ sở của master) (beta nằm trước master)</p>
+<pre><code>  git rebase beta
 </code></pre><h3 id="lưu-tạm-thay-đổi-hiện-tại">Lưu tạm thay đổi hiện tại</h3>
 <p>Để làm chức năng khác mà không ảnh hưởng đến source</p>
 <pre><code>  git stash
 </code></pre><pre><code>  git stash list
 </code></pre><pre><code>  git stash apply file
 </code></pre><p>Trường hợp lưu vào (git add) muốn trở về</p>
-<pre><code>  git reset file
+<pre><code>  //git reset file
+  git rm --cached file
+</code></pre><p>Xoá commit cuối (hard: xóa nội dung luôn)</p>
+<pre><code>  git reset --soft HEAD~1 
+  git reset --hard HEAD~1
+  git reset -- file(.) : trở về trạng thái unmodified (chưa add)
+</code></pre><p>Đã add file rồi mà thay đổi file và muốn commit lên khỏi dùng lệnh add lại.</p>
+<pre><code>  git commit -a -m &quot;message&quot;
+</code></pre><p>Thay đổi file, commit lên mà không tạo commit mới (lấy cái cuối cùng commit)</p>
+<pre><code>  git commit --amend -a 
+  a : để insert message -&gt; esc -&gt; :wq  để thoát khỏi
+</code></pre><p>Xem lịch sử (trên một dòng, cấu trúc nhánh commit)</p>
+<pre><code>  git log --oneline --graph branch
+</code></pre><h3 id="tag-đánh-dấu-một-điểm-trong-lịch-sử-commit">Tag (đánh dấu một điểm trong lịch sử commit)</h3>
+<p>Xem tag tồn tại</p>
+<pre><code>  git tag
+</code></pre><pre><code>  Tạo tag: git tag -a &quot;V1.0&quot; -m &quot;Phien ban 1.0&quot; 16d7b14
+  Show tag: git show V1.0
+  Xóa tag: git tag -d V1.0
+  Push all tag: git push origin --tags (V1.0)
+  Xóa tag trên remote: git push --delete origin V1.0
+  Tạo nhánh từ tag: git checkout -b alpha V1.0
 </code></pre><h3 id="cập-nhập">Cập nhập&hellip;</h3>
-<h2 id="facebook-lifestream">Facebook lifestream</h2>
-<p><a href="https://www.facebook.com/100010653048634/videos/1315793485452407/">https://www.facebook.com/100010653048634/videos/1315793485452407/</a></p>
+<h2 id="ngoài-ra-còn-nhiều-lệnh-nâng-cao-nữa">(Ngoài ra còn nhiều lệnh nâng cao nữa)</h2>
+<p><a href="https://www.youtube.com/watch?v=gjQDyND-vN8&amp;list=P">https://www.youtube.com/watch?v=gjQDyND-vN8&amp;list=P</a></p>
 
     </article>
     
@@ -2664,12 +2706,13 @@ document.addEventListener('DOMContentLoaded', function () {
       <ul>
         <li><a href="#xem-branch">Xem branch</a></li>
         <li><a href="#xem-sự-thay-đổi">Xem sự thay đổi</a></li>
-        <li><a href="#pull-request---merge">pull request - merge</a></li>
+        <li><a href="#pull-request----merge">pull request  - merge</a></li>
         <li><a href="#lưu-tạm-thay-đổi-hiện-tại">Lưu tạm thay đổi hiện tại</a></li>
+        <li><a href="#tag-đánh-dấu-một-điểm-trong-lịch-sử-commit">Tag (đánh dấu một điểm trong lịch sử commit)</a></li>
         <li><a href="#cập-nhập">Cập nhập&hellip;</a></li>
       </ul>
     </li>
-    <li><a href="#facebook-lifestream">Facebook lifestream</a></li>
+    <li><a href="#ngoài-ra-còn-nhiều-lệnh-nâng-cao-nữa">(Ngoài ra còn nhiều lệnh nâng cao nữa)</a></li>
   </ul>
 </nav>
   </div>
