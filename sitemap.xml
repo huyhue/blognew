@@ -14,16 +14,41 @@
   
   <url>
     <loc>https://huyhue.github.io/blognew/</loc>
-    <lastmod>2021-03-25T12:00:06+09:00</lastmod>
+    <lastmod>2021-09-06T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://huyhue.github.io/blognew/series/blog/</loc>
-    <lastmod>2021-03-25T12:00:06+09:00</lastmod>
+    <loc>https://huyhue.github.io/blognew/series/ai/</loc>
+    <lastmod>2021-09-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huyhue.github.io/blognew/posts/aiseries/</loc>
+    <lastmod>2021-09-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huyhue.github.io/blognew/categories/basic/</loc>
+    <lastmod>2021-09-06T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://huyhue.github.io/blognew/categories/</loc>
+    <lastmod>2021-09-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huyhue.github.io/blognew/posts/</loc>
+    <lastmod>2021-09-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huyhue.github.io/blognew/series/</loc>
+    <lastmod>2021-09-06T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://huyhue.github.io/blognew/series/blog/</loc>
     <lastmod>2021-03-25T12:00:06+09:00</lastmod>
   </url>
   
@@ -34,16 +59,6 @@
   
   <url>
     <loc>https://huyhue.github.io/blognew/posts/testing/</loc>
-    <lastmod>2021-03-25T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huyhue.github.io/blognew/posts/</loc>
-    <lastmod>2021-03-25T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://huyhue.github.io/blognew/series/</loc>
     <lastmod>2021-03-25T12:00:06+09:00</lastmod>
   </url>
   

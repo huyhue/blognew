@@ -14,13 +14,31 @@
     <managingEditor>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</managingEditor>
     <webMaster>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 25 Mar 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://huyhue.github.io/blognew/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>AI</title>
+        <link>https://huyhue.github.io/blognew/series/ai/</link>
+        <pubDate>Mon, 06 Sep 2021 12:00:06 +0900</pubDate>
+        <author>tpgiahuy5@gmail.com (Tống Phước Gia Huy)</author>
+        
+        <guid>https://huyhue.github.io/blognew/series/ai/</guid>
+        <description></description>
+        
+        <dc:creator>Tống Phước Gia Huy</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>blog</title>
